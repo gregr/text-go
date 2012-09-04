@@ -1,0 +1,3 @@
+Play (a terrible Haskell implementation of) Go in a terminal.
+
+Inspired by: github.com/jkk/repl-go
